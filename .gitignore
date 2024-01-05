@@ -1,3 +1,5 @@
 ner-env/
 
 
+ner-env/bin/activate
+.DS_Store
