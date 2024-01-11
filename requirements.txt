@@ -1,0 +1,9 @@
+azure-storage-file-share
+pandas == 2.1.*
+numpy == 1.26.*
+matplotlib 
+seaborn
+nltk
+spacy == 3.7.*
+scikit-learn == 1.3.*
+./en_core_web_md-3.7.1-py3-none-any.whl
